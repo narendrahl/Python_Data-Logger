@@ -1,5 +1,7 @@
-# ---  Created From Python_Data-Logger.ui  
-# ---  Using pyuic -----
+
+
+# ---  Created From Python_Data-Logger.ui using Pyuic  --------
+# 
 #
 # 
 
